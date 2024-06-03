@@ -1,5 +1,6 @@
-## AtliQ Hardwares Sales Report :
+## AtliQ Hardwares Sales Report
 
+<img src=https://github.com/sayanb28/Excel-Sales_Analytics/assets/170934465/753c9223-94ad-4c85-a0c7-d6a5df5f22a0 width="1280px" height="720px"><br>
 
 - **Project objective:** 
 
